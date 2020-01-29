@@ -1,0 +1,8 @@
+{
+	"role": {
+		"name": "unmask",
+		"schema_privileges": [{
+			"privileges": ["SELECT", "UNMASKED"]
+		}]
+	}
+}
